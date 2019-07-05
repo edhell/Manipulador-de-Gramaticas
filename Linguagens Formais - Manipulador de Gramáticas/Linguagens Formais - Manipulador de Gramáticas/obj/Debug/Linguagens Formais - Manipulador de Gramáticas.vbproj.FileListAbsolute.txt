@@ -10,3 +10,39 @@ C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Linguagens Formais - Mani
 C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.exe
 C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.xml
 C:\Users\Eduardo\Documents\Visual Studio 2017\Projects\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.pdb
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.exe.config
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.exe
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.pdb
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.xml
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbprojAssemblyReference.cache
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens_Formais___Manipulador_de_Gramáticas.Form1.resources
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens_Formais___Manipulador_de_Gramáticas.Resources.resources
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.exe
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.xml
+C:\Users\eduar\Desktop\Linguagens Formais - Manipulador de Gramáticas\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.pdb
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.exe.config
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.exe
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.pdb
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.xml
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbprojAssemblyReference.cache
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens_Formais___Manipulador_de_Gramáticas.Form1.resources
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens_Formais___Manipulador_de_Gramáticas.Resources.resources
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.exe
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.xml
+C:\Users\eduar\Desktop\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.pdb
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.exe.config
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.exe
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.pdb
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\bin\Debug\Linguagens Formais - Manipulador de Gramáticas.xml
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbprojAssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens_Formais___Manipulador_de_Gramáticas.Form1.resources
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens_Formais___Manipulador_de_Gramáticas.Resources.resources
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbproj.GenerateResource.cache
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.vbproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.exe
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.xml
+C:\Users\eduar\OneDrive\Documentos\FACULDADE\Compiladores - Trabalho 2\Linguagens Formais - Manipulador de Gramáticas\obj\Debug\Linguagens Formais - Manipulador de Gramáticas.pdb
